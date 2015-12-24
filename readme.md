@@ -9,7 +9,7 @@ The problem of placing eight chess queens on an 8×8 chessboard so that no two q
 ## 1. n
 
 |n|1|2|3|4|5|6|7|8|9|10|11|12|13|14|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
 |Fundamental|1|0|0|1|2|1|6|12|46|92|341|1,787|9,233|45,752|
 
 The eight queens puzzle has 92 distinct solutions. If solutions that differ only by symmetry operations (rotations and reflections) of the board are counted as one, the puzzle has 12 fundamental solutions.
