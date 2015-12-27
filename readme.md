@@ -16,7 +16,7 @@ The eight queens puzzle has 92 distinct solutions. If solutions that differ only
 
 A fundamental solution usually has eight variants (including its original form) obtained by rotating 90, 180, or 270 degrees and then reflecting each of the four rotational variants in a mirror in a fixed position. However, should a solution be equivalent to its own 90 degree rotation (as happens to one solution with five queens on a 5x5 board) that fundamental solution will have only two variants (itself and its reflection). Should a solution be equivalent to its own 180 degree rotation (but not to its 90 degree rotation) it will have four variants (itself, its reflection, its 90 degree rotation and the reflection of that). It is not possible for a solution to be equivalent to its own reflection (except at n=1) because that would require two queens to be facing each other. (For n-queen problem's solution to be equivalent to its own mirror-image solution, the solution needs to be symmetrical by the center of the board either horizontally or vertically. Then, two queens would be facing each other, making it not a solution. ) Of the 12 fundamental solutions to the problem with eight queens on an 8x8 board, exactly one is equal to its own 180 degree rotation, and none are equal to their 90 degree rotation, thus the number of distinct solutions is 11*8 + 1*4 = 92 (where the 8 is derived from four 90-degree rotational positions and their reflections, and the 4 is derived from two 180-degree rotational positions and their reflections).
 
-## 2. Requirement modules
+## 2. Required modules
 update soon...
 
 ## 3. Sample
